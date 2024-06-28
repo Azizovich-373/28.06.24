@@ -425,7 +425,7 @@ let movies = [
                 "Value": "82%"
             },
             {
-                "Source": "Metacritic",Ё
+                "Source": "Metacritic",
 
                 "Value": "64/100"
             }
